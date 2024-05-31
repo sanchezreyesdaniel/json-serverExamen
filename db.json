@@ -1,5 +1,5 @@
 {
-  "tickets": {
+  
     "ticketsPendientes": [
       {
         "id": "1",
@@ -87,5 +87,5 @@
         "alumno": "Ana Martinez"
       }
     ]
-  }
+  
 }
